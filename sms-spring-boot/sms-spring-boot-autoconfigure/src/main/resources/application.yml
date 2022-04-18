@@ -1,0 +1,9 @@
+sms:
+  enable: true
+  aliyun:
+    accessKey: LTAI5t612ZYScruhTmBQRUJM
+    accessKeySecret: PZySsjjT1cuxXBRqmYHYMwBiUx0eG2
+    signName: 小王八
+    product: Dysmsapi
+    domain: dysmsapi.aliyuncs.com
+    regionId: cn-hangzhou
